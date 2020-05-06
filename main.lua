@@ -257,8 +257,8 @@ function love.update(dt)
     end
 
     -- super computer player
-    player2.y = ball.y + (ball.height / 2) - (player2.height / 2)
-    player1.y = player2.y
+    -- player2.y = ball.y + (ball.height / 2) - (player2.height / 2)
+    -- player1.y = player2.y
 
     player1:update(dt)
     player2:update(dt)
