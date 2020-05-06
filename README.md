@@ -1,5 +1,5 @@
 # Pong
- Classic Pong game, not currently playable, just a demo
+ Classic Pong game clone
 
 Developed using:
 
